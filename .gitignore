@@ -1,4 +1,5 @@
 venv
 *.json
 auth.py
-.idea
+.idea/*
+__pycache__/*
